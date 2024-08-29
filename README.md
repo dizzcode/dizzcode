@@ -10,12 +10,12 @@
 <div align="center">
 
  <a href="">
-    <img height="160em" align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=dizzcode&hide=Batchfile&layout=compact&theme=nord"/>
+    <img height="120em" align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=dizzcode&hide=Batchfile&layout=compact&theme=nord"/>
   </a>
 
   <!--Stats-->
   <a href="">
-    <img height="160em" align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api?username=dizzcode&show_icons=true&line_height=27&theme=nord"/>
+    <img height="120em" align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api?username=dizzcode&show_icons=true&line_height=27&theme=nord"/>
   </a>
   
    <!--stats-->
