@@ -31,7 +31,7 @@
 [![Instagram](https://img.shields.io/static/v1?message=Instagram&logo=Instagram&labelColor=black&color=black&logoColor=white&label=%20)](https://instagram.com/shavinda_dizz) ° 
 [![LinkedIn](https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&labelColor=black&color=black&logoColor=white&label=%20)](https://linkedin.com/in/rshavinda) °
 [![Facebook](https://img.shields.io/static/v1?message=Facebook&logo=facebook&labelColor=black&color=black&logoColor=white&label=%20)](https://facebook.com/rshavinda) ° 
-[![Blogger](https://img.shields.io/static/v1?message=Blogger&logo=blogger&labelColor=black&color=black&logoColor=white&label=%20)]([https://twitter.com/rshavinda](https://dizzcode.blogspot.com/))
+[![Blogger](https://img.shields.io/static/v1?message=Blogger&logo=blogger&labelColor=black&color=black&logoColor=white&label=%20)](https://dizzcode.blogspot.com/))
  ♨
  </div>
  
