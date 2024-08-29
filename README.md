@@ -1,23 +1,45 @@
 ### ⛾ I go by [Shavinda Disanayake!](https://linkedin.com/in/rshavinda) ⛾
 <!--
 **dizzcode/dizzcode** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.-->
-<div align="center">
-  
-♘  ♞
-Experienced Mobile Developer specializing in Android app development with Kotlin, skilled in core Android Architecture components and best practices such as MVVM. Committed to staying current with emerging technologies and currently advancing in Native Android Development, with a goal to specialize in both Native Android and iOS platforms.
 
+♘ Experienced Mobile Developer specializing in Android app development with Kotlin, skilled in core Android Architecture components and best practices such as MVVM.  
+♞ Committed to staying current with emerging technologies and currently advancing in Native Android Development, with a goal to specialize in both Native Android and iOS platforms.
+
+##
+
+<div align="center">
+
+ <a href="">
+    <img height="160em" align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=dizzcode&hide=Batchfile&layout=compact&theme=nord"/>
+  </a>
+
+  <!--Stats-->
+  <a href="">
+    <img height="160em" align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api?username=dizzcode&show_icons=true&line_height=27&theme=nord"/>
+  </a>
   
-  ### 🌐 SOCIALS:
-  [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/shavinda_diz) 
-  [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/rshavinda) 
-  [![Facebook](https://img.shields.io/badge/Facebook-1877F2?logo=facebook&logoColor=white)](https://twitter.com/rshavinda)
-  [![Blogger](https://img.shields.io/badge/Blogger-FF5722?logo=blogger&logoColor=white)](https://twitter.com/rshavinda)   
+   <!--stats-->
+  <!-- ![](https://github-readme-streak-stats.herokuapp.com/?user=dizzcode&show_icons=true&line_height=27&theme=dracula&hide_border=false)<br/> -->
+ ##
 </div>
 
-### 💻 Tech Stack:
+<div align="center">
+
+ꜱᴏᴄɪᴀʟꜱ  <br/> <br/> 
+
+♨ 
+[![Instagram](https://img.shields.io/static/v1?message=Instagram&logo=Instagram&labelColor=black&color=black&logoColor=white&label=%20)](https://instagram.com/shavinda_diz) ° 
+[![LinkedIn](https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&labelColor=black&color=black&logoColor=white&label=%20)](https://linkedin.com/in/rshavinda) °
+[![Facebook](https://img.shields.io/static/v1?message=Facebook&logo=facebook&labelColor=black&color=black&logoColor=white&label=%20)](https://twitter.com/rshavinda) ° 
+[![Blogger](https://img.shields.io/static/v1?message=Blogger&logo=blogger&labelColor=black&color=black&logoColor=white&label=%20)](https://twitter.com/rshavinda)
+ ♨
+ </div>
+ 
   ##
 
 <div align="center">
+
+🇹​🇪​🇨​🇭​ 🇸​🇹​🇦​🇨​🇰 ​/ 🇸​🇰​🇮​🇱​🇱​🇸​ <br/> <br/> 
 
 ![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white)
 ![Capacitor](https://img.shields.io/badge/Capacitor-119EFF?style=for-the-badge&logo=Capacitor&logoColor=white)
@@ -42,36 +64,15 @@ Experienced Mobile Developer specializing in Android app development with Kotlin
 ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) 
 ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white) 
 
+
 </div>
 
-  ##
+##
 
-### 📊 GitHub Stats:
-<div align="center">
-
- <a href="">
-    <img height="180em" align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=dizzcode&hide=Batchfile&layout=compact&theme=nord"/>
-  </a>
-
-  <!--Stats-->
-  <a href="">
-    <img height="180em" align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api?username=dizzcode&show_icons=true&line_height=27&theme=nord"/>
-  </a>
-  
-   <!--stats-->
-  <!-- ![](https://github-readme-streak-stats.herokuapp.com/?user=dizzcode&show_icons=true&line_height=27&theme=dracula&hide_border=false)<br/> -->
- 
+<!-- ![](https://github-profile-trophy.vercel.app/?username=dizzcode&theme=oldie&no-frame=false&no-bg=true&margin-w=4) -->
+<div align="center"> 
+🇵​🇦​🇬​🇪​ 🇻​🇮​🇸​🇮​🇹​🇸​  <br/> <br/> 
+<img align="center" src="https://profile-counter.glitch.me/{dizzcode}/count.svg"/>
 </div>
 
-  ##
-### 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=dizzcode&theme=oldie&no-frame=false&no-bg=true&margin-w=4)
-
-  ##
-<p align="center">
-	<b>Visitors Count</b>
-</p>
-
-<p align="center">
-	<img align="center" src="https://profile-counter.glitch.me/{dizzcode}/count.svg"/>
-</p>
+ ##
