@@ -24,7 +24,7 @@
 
 <div align="center">
 
-ꜱᴏᴄɪᴀʟꜱ  <br/> <br/> 
+ꜱᴏᴄɪᴀʟꜱ  <br/>
 
 ♨ 
 [![Instagram](https://img.shields.io/static/v1?message=Instagram&logo=Instagram&labelColor=black&color=black&logoColor=white&label=%20)](https://instagram.com/shavinda_diz) ° 
@@ -38,7 +38,7 @@
 
 <div align="center">
 
-🇹​🇪​🇨​🇭​ 🇸​🇹​🇦​🇨​🇰 ​/ 🇸​🇰​🇮​🇱​🇱​🇸​ <br/> <br/> 
+ᴛᴇᴄʜ ꜱᴛᴀᴄᴋ / ꜱᴋɪʟʟꜱ <br/> 
 
 ![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white)
 ![Capacitor](https://img.shields.io/badge/Capacitor-119EFF?style=for-the-badge&logo=Capacitor&logoColor=white)
@@ -70,7 +70,7 @@
 
 <!-- ![](https://github-profile-trophy.vercel.app/?username=dizzcode&theme=oldie&no-frame=false&no-bg=true&margin-w=4) -->
 <div align="center"> 
-🇵​🇦​🇬​🇪​ 🇻​🇮​🇸​🇮​🇹​🇸​  <br/> <br/> 
+ᴘᴀɢᴇ ᴠɪꜱɪᴛꜱ​  <br/>   
 <img align="center" src="https://profile-counter.glitch.me/{dizzcode}/count.svg"/>
 </div>
 
