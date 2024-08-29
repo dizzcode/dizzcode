@@ -1,32 +1,23 @@
-### Hi there, I'm [Shavinda Disanayake!](https://linkedin.com/in/rshavinda) 👋
+### ⛾ I go by [Shavinda Disanayake!](https://linkedin.com/in/rshavinda) ⛾
 <!--
-**dizzcode/dizzcode** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-
-🔭 I’m currently working as a Android Developer<br>🌱 I’m currently learning Kotlin
-
+**dizzcode/dizzcode** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.-->
 <div align="center">
+  
+♘  ♞
+Experienced Mobile Developer specializing in Android app development with Kotlin, skilled in core Android Architecture components and best practices such as MVVM. Committed to staying current with emerging technologies and currently advancing in Native Android Development, with a goal to specialize in both Native Android and iOS platforms.
+
   
   ### 🌐 SOCIALS:
   [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/shavinda_diz) 
   [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/rshavinda) 
-  [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/rshavinda)
-  [![Blogger](https://img.shields.io/badge/Blogger-FF5722?style=for-the-badge&logo=blogger&logoColor=white)](https://twitter.com/rshavinda)   
+  [![Facebook](https://img.shields.io/badge/Facebook-1877F2?logo=facebook&logoColor=white)](https://twitter.com/rshavinda)
+  [![Blogger](https://img.shields.io/badge/Blogger-FF5722?logo=blogger&logoColor=white)](https://twitter.com/rshavinda)   
 </div>
 
 ### 💻 Tech Stack:
----
+  ##
+
+<div align="center">
 
 ![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white)
 ![Capacitor](https://img.shields.io/badge/Capacitor-119EFF?style=for-the-badge&logo=Capacitor&logoColor=white)
@@ -51,35 +42,36 @@ Here are some ideas to get you started:
 ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) 
 ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white) 
 
-![Adobe Illustrator](https://img.shields.io/badge/Adobe%20Illustrator-FF9A00?style=for-the-badge&logo=adobe%20illustrator&logoColor=white) 
-![Adobe Photoshop](https://img.shields.io/badge/Adobe%20Photoshop-31A8FF?style=for-the-badge&logo=Adobe%20Photoshop&logoColor=black) 
-![Adobe Premiere Pro](https://img.shields.io/badge/Adobe%20Premiere%20Pro-9999FF?style=for-the-badge&logo=Adobe%20Premiere%20Pro&logoColor=white)
-![Adobe XD](https://img.shields.io/badge/Adobe%20after%20affects-CF96FD?style=for-the-badge&logo=Adobe%20after%20effects&logoColor=393665)
+</div>
 
----
+  ##
 
 ### 📊 GitHub Stats:
 <div align="center">
 
- <!--Stats-->
- ![](https://github-readme-stats.anuraghazra1.vercel.app/api?username=dizzcode&show_icons=true&line_height=27&theme=nord)<br/> <!--theme=nord | theme=dracula-->
- 
-  <!--Top Languages-->
-   <a href="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=dizzcode&hide=Batchfile&layout=compact&theme=nord">
-    <img height="163em" align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=dizzcode&hide=Batchfile&layout=compact&theme=nord" />
-  </a> <br/>
-  <br/>
+ <a href="">
+    <img height="180em" align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=dizzcode&hide=Batchfile&layout=compact&theme=nord"/>
+  </a>
+
+  <!--Stats-->
+  <a href="">
+    <img height="180em" align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api?username=dizzcode&show_icons=true&line_height=27&theme=nord"/>
+  </a>
   
    <!--stats-->
-  ![](https://github-readme-streak-stats.herokuapp.com/?user=dizzcode&show_icons=true&line_height=27&theme=nord&hide_border=false)<br/>
+  <!-- ![](https://github-readme-streak-stats.herokuapp.com/?user=dizzcode&show_icons=true&line_height=27&theme=dracula&hide_border=false)<br/> -->
  
 </div>
 
----
+  ##
 ### 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=dizzcode&theme=oldie&no-frame=false&no-bg=true&margin-w=4)
 
----
-[![](https://visitcount.itsvg.in/api?id=dizzcode&icon=5&color=3)](https://visitcount.itsvg.in)
+  ##
+<p align="center">
+	<b>Visitors Count</b>
+</p>
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+<p align="center">
+	<img align="center" src="https://profile-counter.glitch.me/{dizzcode}/count.svg"/>
+</p>
