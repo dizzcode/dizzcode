@@ -1,4 +1,4 @@
-### ⛾ I go by [Shavinda Disanayake!](https://linkedin.com/in/rshavinda) ⛾
+### ⛾ I go by [Shavinda Disanayake](https://linkedin.com/in/rshavinda) ⛾
 <!--
 **dizzcode/dizzcode** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.-->
 
