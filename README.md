@@ -10,14 +10,12 @@
 
 <div align="center">
 
-<a href="https://github.com/dizzcode/github-readme-stats">
-<img alt="Shavinda Dissanayake's Github Stats" 
-src="https://github-readme-stats.vercel.app/api?username=dizzcode&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" /></a>
-<a href="https://github.com/dizzcode/github-readme-stats">
-<img alt="Shavinda Dissanayake's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dizzcode&langs_count=4&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" />
+<a>
+    <img height="148em" align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api?username=dizzcode&show_icons=true&line_height=27&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117"/></a>
+<a>
+    <img height="148em" align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=dizzcode&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117"/>
 </a>
 
-  
    <!--stats-->
   <!-- ![](https://github-readme-streak-stats.herokuapp.com/?user=dizzcode&show_icons=true&line_height=27&theme=dracula&hide_border=false)<br/> -->
  ##
