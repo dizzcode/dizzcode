@@ -12,8 +12,7 @@
 
 <a href="https://github.com/shanwij/github-readme-stats">
 <img alt="Shavinda Dissanayake's Github Stats" 
-src="https://github-readme-stats.vercel.app/api?username=dizzcode&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" />
-</a>
+src="https://github-readme-stats.vercel.app/api?username=dizzcode&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" /></a>
 <a href="https://github.com/shanwij/github-readme-stats">
 <img alt="Shavinda Dissanayake's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dizzcode&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" />
 </a>
@@ -71,7 +70,7 @@ src="https://github-readme-stats.vercel.app/api?username=dizzcode&show_icons=tru
 
 <!-- ![](https://github-profile-trophy.vercel.app/?username=dizzcode&theme=oldie&no-frame=false&no-bg=true&margin-w=4) -->
 <div align="center"> 
-ᴘᴀɢᴇ ᴠɪᴇᴡꜱ​  <br/>   
+ᴘʀᴏꜰɪʟᴇ ᴠɪᴇᴡꜱ​  <br/>   
 <img align="center" src="https://profile-counter.glitch.me/{dizzcode}/count.svg"/>
 </div>
 
